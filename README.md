@@ -17,4 +17,4 @@ JDBC + Reflection + JUnit + Liquibase + H2 + JaCoCo + Checkstyle + Maven
 -select
 -update
 -delete
--insert должны работать без изменения внутреней логики
+-insert должны работать без изменения внутреней логики.
